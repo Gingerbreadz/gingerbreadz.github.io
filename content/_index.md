@@ -46,11 +46,6 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 | | | Ph.D. thesis, Institut Polytechnique de Paris, March 2023
 | | | [[PDF]](/papers/thesis-anatole.pdf) -- [[Slides]](/papers/thesis-anatole-slides.pdf) -- [[Talk]](https://bbb-node.imtbs-tsp.eu/playback/presentation/2.3/74fc0fc86f9a8c34a6db85966d573b27be7cc424-1679644962657)
 | &nbsp; | |
-| **[NVMW'22]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*J-NVM: Off-heap Persistent Objects for Java*](http://nvmw.ucsd.edu/program-2022/#paper-22)
-| | | **Anatole Lefort**, Yohan Pipereau, Kwabena Amponsem, Pierre Sutra, Gaël Thomas
-| | | At [*the 13th annual Non-Volatile Memories Workshop*](http://nvmw.ucsd.edu/home-2022), San Diego (CA), USA, May 2022
-| | | [[PDF]](/papers/nvmw22-jnvm.pdf) -- [[Slides]](/papers/nvmw22-jnvm-slides.pdf) -- [[Poster]](/papers/nvmw22-jnvm-poster.pdf) -- [[Talk (5min)]](https://youtu.be/ha6W0iWf0dg) -- [[Talk (Full)]](https://youtu.be/SChlHo7ShiI)
-| &nbsp; | |
 | **[SOSP'21]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*J-NVM: Off-heap Persistent Objects for Java*](https://dl.acm.org/doi/abs/10.1145/3477132.3483579)
 | | | **Anatole Lefort**, Yohan Pipereau, Kwabena Amponsem, Pierre Sutra, Gaël Thomas
 | | | In *Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles (SOSP)*, Virtual Event, October 2021.
@@ -98,10 +93,15 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 ## Talks
 | | |
 | ---: | :---: | :---|
-| **[HMEM'22]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*J-NVM: Off-heap Persistent Objects in Java*](https://www.bsc.es/news/events/3rd-workshop-heterogeneous-memory-systems-hmem-2022/agenda)
+| **[HMEM'22]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*J-NVM: Off-heap Persistent Objects for Java*](https://www.bsc.es/news/events/3rd-workshop-heterogeneous-memory-systems-hmem-2022/agenda)
 | | |
 | | | At the [*3rd Workshop on Heterogeneous Memory Systems (HMEM 2022)*](https://www.bsc.es/news/events/3rd-workshop-heterogeneous-memory-systems-hmem-2022), Virtual Event -- Collocated with ICS'22, July 2022.
 | | | [[Slides]](/papers/hmem22-jnvm-slides.pdf)
+| &nbsp; | |
+| **[NVMW'22]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*J-NVM: Off-heap Persistent Objects for Java*](http://nvmw.ucsd.edu/program-2022/#paper-22)
+| | |
+| | | At [*the 13th annual Non-Volatile Memories Workshop*](http://nvmw.ucsd.edu/home-2022), San Diego (CA), USA, May 2022
+| | | [[PDF]](/papers/nvmw22-jnvm.pdf) -- [[Slides]](/papers/nvmw22-jnvm-slides.pdf) -- [[Poster]](/papers/nvmw22-jnvm-poster.pdf) -- [[Talk (5min)]](https://youtu.be/ha6W0iWf0dg) -- [[Talk (Full)]](https://youtu.be/SChlHo7ShiI)
 
 ## Prizes and Awards
 
