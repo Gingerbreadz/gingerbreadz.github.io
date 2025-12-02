@@ -13,3 +13,7 @@ theme = 'motherfuckingwebsite'
 [[deployment.targets]]
 name = 'anatolelefort.net'
 URL = "s3://anatolelefort.net?endpoint=https://s3.fr-par.scw.cloud&region=fr-par"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
