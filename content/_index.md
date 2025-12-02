@@ -5,7 +5,7 @@ about: "I am a Postdoctoral Resarcher at the [Systems Research Group](https://ds
 interests: "Distributed Systems, Distributed Computing, Persistent Memory, Concurrency, Language Runtimes, Cloud Infrastructures."
 note: "I'm definitely not a web person/artist. This website was built with minimal efforts, using [Hugo](https://gohugo.io/)  and the [motherfuckingwebsite](https://github.com/gingerbreadz/hugo-theme-motherfuckingwebsite) theme."
 footer: "Cheers, you just reached the bottom of the page! Hope you enjoyed your read!"
-last_update: "May 1, 2023."
+last_update: "Dec. 1st, 2025"
 toc: false
 toc_inline: false
 ---
@@ -41,6 +41,16 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 
 | | |
 |---: | :---: | :---|
+| **[ASPLOS'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | *vCXLGen: Automated Synthesis and Verification of CXL Bridges for Heterogeneous Architectures*
+| | | **Anatole Lefort**, Julian Pritzi, Nicolò Carpentieri, David Schall, Simon Dittrich, Soham Chakraborty, Nicolai Oswald, Pramod Bhatotia
+| | | Pittsburgh (PA), USA, March 2026.
+| | | [PDF] -- [Slides] -- [Poster] -- [Talk] -- [Code]
+| &nbsp; | |
+| **[HPCA'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | *C3: CXL Coherence Controllers for Heterogeneous Architectures*
+| | | **Anatole Lefort**, David Schall, Nicolò Carpentieri, Julian Pritzi, Nicolai Oswald, Pramod Bhatotia
+| | | Sydney, Australia, February 2026.
+| | | [PDF] -- [Slides] -- [Poster] -- [Talk] -- [Code]
+| &nbsp; | |
 | [**Thesis**] | &nbsp;&nbsp;&nbsp;&nbsp; | [*A Support for Persistent Memory in Java*](https://www.theses.fr/s209722)
 | | | **Anatole Lefort**
 | | | Ph.D. thesis, Institut Polytechnique de Paris, March 2023
