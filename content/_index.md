@@ -49,7 +49,7 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 | **[HPCA'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | *C3: CXL Coherence Controllers for Heterogeneous Architectures*
 | | | **Anatole Lefort**, David Schall, Nicolò Carpentieri, Julian Pritzi, Nicolai Oswald, Pramod Bhatotia
 | | | Sydney, Australia, February 2026.
-| | | [PDF] -- [Slides] -- [Poster] -- [Talk] -- [Code]
+| | | [[PDF]](/papers/c3-hpca26.pdf) -- [Slides] -- [Poster] -- [Talk] -- [Code]
 | &nbsp; | |
 | [**Thesis**] | &nbsp;&nbsp;&nbsp;&nbsp; | [*A Support for Persistent Memory in Java*](https://www.theses.fr/s209722)
 | | | **Anatole Lefort**
