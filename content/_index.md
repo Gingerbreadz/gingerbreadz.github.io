@@ -46,7 +46,7 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 | | | Pittsburgh (PA), USA, March 2026.
 | | | [PDF] -- [Slides] -- [Poster] -- [Talk] -- [Code]
 | &nbsp; | |
-| **[HPCA'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | *C3: CXL Coherence Controllers for Heterogeneous Architectures*
+| **[HPCA'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*C3: CXL Coherence Controllers for Heterogeneous Architectures*](https://ieeexplore.ieee.org/document/11408469)
 | | | **Anatole Lefort**, David Schall, Nicolò Carpentieri, Julian Pritzi, Nicolai Oswald, Pramod Bhatotia
 | | | Sydney, Australia, February 2026.
 | | | [[PDF]](/papers/c3-hpca26.pdf) -- [[Slides]](/papers/c3-hpca26-slides.pdf) -- [Talk] -- [[Code]](https://github.com/TUM-DSE/C3)
