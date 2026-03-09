@@ -44,7 +44,7 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 | **[ASPLOS'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | *vCXLGen: Automated Synthesis and Verification of CXL Bridges for Heterogeneous Architectures*
 | | | **Anatole Lefort**, Julian Pritzi, Nicolò Carpentieri, David Schall, Simon Dittrich, Soham Chakraborty, Nicolai Oswald, Pramod Bhatotia
 | | | Pittsburgh (PA), USA, March 2026.
-| | | [PDF] -- [Slides] -- [Poster] -- [Talk] -- [Code]
+| | | [[Preprint]](/papers/vcxlgen_asplos_preprint.pdf) -- [Slides] -- [Poster] -- [Talk] -- [[Code]](https://github.com/TUM-DSE/vcxlgen)
 | &nbsp; | |
 | **[HPCA'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*C3: CXL Coherence Controllers for Heterogeneous Architectures*](https://ieeexplore.ieee.org/document/11408469)
 | | | **Anatole Lefort**, David Schall, Nicolò Carpentieri, Julian Pritzi, Nicolai Oswald, Pramod Bhatotia
