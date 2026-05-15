@@ -39,10 +39,12 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 
 ## Publications
 
+### International Conferences
+
 | | |
 |---: | :---: | :---|
 | **[ASPLOS'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*vCXLGen: Automated Synthesis and Verification of CXL Bridges for Heterogeneous Architectures*](https://dl.acm.org/doi/10.1145/3779212.3790245?cid=99659898506)
-| | | **Anatole Lefort**, Julian Pritzi, Nicolò Carpentieri, David Schall, Simon Dittrich, Soham Chakraborty, Nicolai Oswald, Pramod Bhatotia
+| Best paper award | | **Anatole Lefort**, Julian Pritzi, Nicolò Carpentieri, David Schall, Simon Dittrich, Soham Chakraborty, Nicolai Oswald, Pramod Bhatotia
 | | | Pittsburgh (PA), USA, March 2026.
 | | | [[PDF]](/papers/vcxlgen-asplos26-preprint.pdf) -- [[Slides]](/papers/vcxlgen-asplos26-slides.pdf) -- [Talk] -- [[Code]](https://github.com/TUM-DSE/vcxlgen)
 | &nbsp; | |
@@ -65,6 +67,14 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 | | | Alexey Gotsman, **Anatole Lefort**, Gregory Chockler
 | | | In *Proceedings of the 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, Portland (OR), USA, June 2019.
 | | | [[PDF]](/papers/dsn19_wb-amcast.pdf) -- [[Extended version on arXiv]](https://arxiv.org/abs/1904.07171) -- [[Code]](https://github.com/imdea-software/atomic-multicast)
+
+### International Journals
+
+| | |
+|---: | :---: | :---|
+| **[TOCS]** | &nbsp;&nbsp;&nbsp;&nbsp; | Invited extended journal version of *vCXLGen: Automated Synthesis and Verification of CXL Bridges for Heterogeneous Architectures*
+| | | **Anatole Lefort**, Julian Pritzi, Nicolò Carpentieri, David Schall, Simon Dittrich, Soham Chakraborty, Nicolai Oswald, Pramod Bhatotia
+| | | forthcoming, 2026.
 
 <!--
 ## International Conferences
@@ -126,6 +136,7 @@ and [*Université Paris Saclay*](https://www.universite-paris-saclay.fr/en)
 
 ## Grants
 
+- **Humboldt Research Fellowship for Postdocs** from *the Alexander von Humboldt Foundation*, 2023-2025.
 - **NVMW Student Travel Grant** to attend [*NVMW'22*](http://nvmw.ucsd.edu/home-2022/) (San Diego, CA, USA, 2022).
 - **Fully-Funded Ph.D. Scholarship** from [*Institut Mines-Télécom*](https://www.imt.fr/en/), [“Future & Rupture”](https://www.fondation-mines-telecom.org/en-actions/innover/futur-ruptures/) campaign (2018),  
 Awarded on *Academic Excellence* criteria, ranked 1st for *Télécom SudParis*.
