@@ -43,6 +43,11 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 
 | | |
 |---: | :---: | :---|
+| **[MICRO'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | *Synapse: Decoupling Protocol, Topology, and Policy for Automated Synthesis of Coherence Controllers*
+| | | Nicolò Carpentieri, **Anatole Lefort**, David Schall, Julian Pritzi, Pramod Bhatotia
+| | | Athens, Greece, November 2026.
+| | | [PDF] -- [Slides] -- [Talk] -- [Code]
+| &nbsp; | |
 | **[ASPLOS'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*vCXLGen: Automated Synthesis and Verification of CXL Bridges for Heterogeneous Architectures*](https://dl.acm.org/doi/10.1145/3779212.3790245?cid=99659898506)
 | Best paper award | | **Anatole Lefort**, Julian Pritzi, Nicolò Carpentieri, David Schall, Simon Dittrich, Soham Chakraborty, Nicolai Oswald, Pramod Bhatotia
 | | | Pittsburgh (PA), USA, March 2026.
