@@ -8,34 +8,34 @@ footer: "Cheers, you just reached the bottom of the page! Hope you enjoyed your 
 last_update: "Sept. 18, 2026"
 toc: false
 toc_inline: false
+bio: |
+  ## Bio
+
+  > **TL;DR** --- **Ph.D. in Computer Science** (2023) and **Dipl. Ing.** (2018).
+
+  I completed my *Ph.D. in Computer Science* at [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) in March 2023,
+  advised by [Pierre Sutra](https://sites.google.com/site/0track/) and [Gaël Thomas](https://www-public.imtbs-tsp.eu/~thomas_g/).
+  My thesis was about **native programming support for persistent memory** (e.g., Intel's Optane DC PMEM) **in Java**.
+
+  I carried out my Ph.D. research from 2018 to 2022, as a member of the [Parallel and Distributed Systems Group](https://www.inf.telecom-sudparis.eu/pds/),
+  in the [CS Department](https://www.inf.telecom-sudparis.eu/) at [Télécom SudParis](https://www.telecom-sudparis.eu/en).
+  There, I explored both **theoretical and practical aspects** of **persistent-memory programming**, as well as specificities of **managed languages** and their **execution runtimes**.
+
+  <!--
+  I ended up designing and implementing novel persistent objects for Java, that efficiently access PMEM as off-heap memory, through Java's direct-access interface -- `sun.misc.Unsafe`.
+  Atop that, I built off-the-shelf container and collection types (akin to those in `java.util`)
+  -->
+
+  Before that, in 2018, I spent 6 months as a *Research Intern* at the [IMDEA Software Institute](https://software.imdea.org/),
+  where I worked with [Alexey Gotsman](https://software.imdea.org/~gotsman/) on **WB-amcast -- a novel fault-tolerant genuine atomic multicast protocol**.
+
+  I earned my « *Diplôme d'Ingénieur* » (*M.S. Eng.*) from [Télécom SudParis](https://www.telecom-sudparis.eu/en) in 2018.
+  My major was *Parallel Systems and Distributed Computing* ([*ASR*](http://asr.telecom-sudparis.eu/)) and I graduated *first in my class*.
+
+  I did the rest of my undergrad studies in 2015-2018 at [Télécom SudParis](https://www.telecom-sudparis.eu/en),
+  and in 2013-2015 at the [Lycée Camille Guérin de Poitiers](https://lyc-camilleguerin.fr/) (*CPGE* -- *MPSI/MP\**).
+  I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was a high-school student at the [Lycée Pilote Innovant et International](https://lp2i-poitiers.fr/).
 ---
-
-## Bio
-
-> **TL;DR** --- **Ph.D. in Computer Science** (2023) and **Dipl. Ing.** (2018).
-
-I completed my *Ph.D. in Computer Science* at [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) in March 2023,
-advised by [Pierre Sutra](https://sites.google.com/site/0track/) and [Gaël Thomas](https://www-public.imtbs-tsp.eu/~thomas_g/).  
-My thesis was about **native programming support for persistent memory** (e.g., Intel's Optane DC PMEM) **in Java**.
-
-I carried out my Ph.D. research from 2018 to 2022, as a member of the [Parallel and Distributed Systems Group](https://www.inf.telecom-sudparis.eu/pds/),
-in the [CS Department](https://www.inf.telecom-sudparis.eu/) at [Télécom SudParis](https://www.telecom-sudparis.eu/en).  
-There, I explored both **theoretical and practical aspects** of **persistent-memory programming**, as well as specificities of **managed languages** and their **execution runtimes**.
-
-<!--
-I ended up designing and implementing novel persistent objects for Java, that efficiently access PMEM as off-heap memory, through Java's direct-access interface -- `sun.misc.Unsafe`.
-Atop that, I built off-the-shelf container and collection types (akin to those in `java.util`)
--->
-
-Before that, in 2018, I spent 6 months as a *Research Intern* at the [IMDEA Software Institute](https://software.imdea.org/),
-where I worked with [Alexey Gotsman](https://software.imdea.org/~gotsman/) on **WB-amcast -- a novel fault-tolerant genuine atomic multicast protocol**.
-
-I earned my « *Diplôme d'Ingénieur* » (*M.S. Eng.*) from [Télécom SudParis](https://www.telecom-sudparis.eu/en) in 2018.
-My major was *Parallel Systems and Distributed Computing* ([*ASR*](http://asr.telecom-sudparis.eu/)) and I graduated *first in my class*.
-
-I did the rest of my undergrad studies in 2015-2018 at [Télécom SudParis](https://www.telecom-sudparis.eu/en),
-and in 2013-2015 at the [Lycée Camille Guérin de Poitiers](https://lyc-camilleguerin.fr/) (*CPGE* -- *MPSI/MP\**).
-I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was a high-school student at the [Lycée Pilote Innovant et International](https://lp2i-poitiers.fr/).
 
 ## Publications
 
@@ -44,7 +44,7 @@ I received my *Science « baccalauréat »* (*high-school grad.*) in 2013. I was
 | | |
 |---: | :---: | :---|
 | **[MICRO'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | *Synapse: Decoupling Protocol, Topology, and Policy for Automated Synthesis of Coherence Controllers*
-| {{<fa award>}}  Nominated for Distinguished Paper Award | | Nicolò Carpentieri, **Anatole Lefort**, David Schall, Julian Pritzi, Pramod Bhatotia {{<break>}} Athens, Greece, November 2026.
+| {{<fa award>}} Nominated for Distinguished Paper Award | | Nicolò Carpentieri, **Anatole Lefort**, David Schall, Julian Pritzi, Pramod Bhatotia {{<break>}} Athens, Greece, November 2026.
 | | | [PDF] -- [Slides] -- [Talk] -- [Code]
 | {{<pub-gap>}} | |
 | **[ASPLOS'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*vCXLGen: Automated Synthesis and Verification of CXL Bridges for Heterogeneous Architectures*](https://dl.acm.org/doi/10.1145/3779212.3790245?cid=99659898506)
