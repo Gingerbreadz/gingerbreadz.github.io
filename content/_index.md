@@ -1,11 +1,11 @@
 ---
-title: "Hi There, I'm Anatole"
+title: "Hi, I'm Anatole"
 #news: "I am actively **looking for a post-doc** in the broad area of **(distributed) systems**. Should you have matching interests, please, **drop me an e-mail**."
-about: "I am a Postdoctoral Resarcher at the [Systems Research Group](https://dse.in.tum.de/) of the [Technical University of Munich](https://www.tum.de/), hosted by [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)   \nMy current projects revolve around CXL-based disaggregated memory systems for heterogeneous compute architectures."
+about: "I am a Postdoctoral Researcher at the [Systems Research Group](https://dse.in.tum.de/) of the [Technical University of Munich](https://www.tum.de/), hosted by [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)   \nMy current projects revolve around CXL-based disaggregated memory systems for heterogeneous compute architectures."
 interests: "Distributed Systems, Distributed Computing, Persistent Memory, Concurrency, Language Runtimes, Cloud Infrastructures."
 note: "I'm definitely not a web person/artist. This website was built with minimal efforts, using [Hugo](https://gohugo.io/)  and the [motherfuckingwebsite](https://github.com/gingerbreadz/hugo-theme-motherfuckingwebsite) theme."
 footer: "Cheers, you just reached the bottom of the page! Hope you enjoyed your read!"
-last_update: "Dec. 1st, 2025"
+last_update: "Sept. 18, 2026"
 toc: false
 toc_inline: false
 ---
@@ -146,7 +146,7 @@ and [*Université Paris Saclay*](https://www.universite-paris-saclay.fr/en)
 - **Fully-Funded Ph.D. Scholarship** from [*Institut Mines-Télécom*](https://www.imt.fr/en/), [“Future & Rupture”](https://www.fondation-mines-telecom.org/en-actions/innover/futur-ruptures/) campaign (2018),  
 Awarded on *Academic Excellence* criteria, ranked 1st for *Télécom SudParis*.
 
-## Teachings
+## Teaching
 - Télécom SudParis (2019-2021):
   - [*System Programming Introduction ~ Unix & Shell scripting*](http://www-inf.telecom-sudparis.eu/COURS/CSC3102/Supports/) -- **Bash**  
 L3 level --- Fall 2019, Fall 2020  
@@ -160,8 +160,8 @@ M1 level --- Spring 2020, Spring 2021
 
 I truly enjoy any kind of *problem solving*, *tinkering*, or *experimentation* activities.
 Not necessarily related to computers, but really anything where I can also get creative and crafty.
-*Cooking* comes up first in mind, but that also includes various *DIY projects*.
-For instance, I designed and sew [my own custom frame bags](/pictures/bike-frame-bag-2020.jpg) to fit on my bike.
+*Cooking* comes first to mind, but that also includes various *DIY projects*.
+For instance, I designed and sewed [my own custom frame bags](/pictures/bike-frame-bag-2020.jpg) to fit on my bike.
 
 When I grow [tired of sitting at my desk](/pictures/batman.jpg), working on my computer, or just being indoors; I usually go outside and do [stupid things](https://www.strava.com/activities/7206716430):
 - **Cycling**: (*Road*, *MTB*, *Touring & Bikepacking holidays*)
