@@ -43,7 +43,7 @@ bio: |
 
 | | |
 |---: | :---: | :---|
-| **[MICRO'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | *Synapse: Decoupling Protocol, Topology, and Policy for Automated Synthesis of Coherence Controllers*
+| **[MICRO'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*Synapse: Decoupling Protocol, Topology, and Policy for Automated Synthesis of Coherence Controllers*](https://www.microarch.org/micro59/program/#:~:text=Synapse%3A%20Decoupling%20Protocol%2C%20Topology%2C%20and%20Policy%20for%20Automated%20Synthesis%20of%20Coherence%20Controllers)
 | {{<fa award>}} Nominated for Distinguished Paper Award | | Nicolò Carpentieri, **Anatole Lefort**, David Schall, Julian Pritzi, Pramod Bhatotia {{<break>}} Athens, Greece, November 2026.
 | | | [PDF] -- [Slides] -- [Talk] -- [Code]
 | {{<pub-gap>}} | |
