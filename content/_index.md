@@ -45,12 +45,12 @@ bio: |
 |---: | :---: | :---|
 | **[MICRO'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*Synapse: Decoupling Protocol, Topology, and Policy for Automated Synthesis of Coherence Controllers*](https://www.microarch.org/micro59/program/#:~:text=Synapse%3A%20Decoupling%20Protocol%2C%20Topology%2C%20and%20Policy%20for%20Automated%20Synthesis%20of%20Coherence%20Controllers)
 | {{<fa award>}} Nominated for Distinguished Paper Award | | Nicolò Carpentieri, **Anatole Lefort**, David Schall, Julian Pritzi, Pramod Bhatotia {{<break>}} Athens, Greece, November 2026.
-| | | [PDF] -- [Slides] -- [Talk] -- [Code]
+| | | [[PDF]](/papers/synapse-micro26.pdf) -- [[Code]](https://github.com/TUM-DSE/synapse) -- [[Website]](https://synapse-coherence.github.io/)
 | {{<pub-gap>}} | |
 | **[ASPLOS'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*vCXLGen: Automated Synthesis and Verification of CXL Bridges for Heterogeneous Architectures*](https://dl.acm.org/doi/10.1145/3779212.3790245?cid=99659898506)
 | {{<fa award>}} Best Paper Award | | **Anatole Lefort**, Julian Pritzi, Nicolò Carpentieri, David Schall, Simon Dittrich, Soham Chakraborty, Nicolai Oswald, Pramod Bhatotia
 | | | Pittsburgh, PA, USA, March 2026.
-| | | [[PDF]](/papers/vcxlgen-asplos26-preprint.pdf) -- [[Slides]](/papers/vcxlgen-asplos26-slides.pdf) -- [Talk] -- [[Code]](https://github.com/TUM-DSE/vcxlgen)
+| | | [[PDF]](/papers/vcxlgen-asplos26-preprint.pdf) -- [[Slides]](/papers/vcxlgen-asplos26-slides.pdf) -- [[Code]](https://github.com/TUM-DSE/vcxlgen)
 | {{<pub-gap>}} | |
 | **[HPCA'26]** | &nbsp;&nbsp;&nbsp;&nbsp; | [*C3: CXL Coherence Controllers for Heterogeneous Architectures*](https://ieeexplore.ieee.org/document/11408469)
 | | | **Anatole Lefort**, David Schall, Nicolò Carpentieri, Julian Pritzi, Nicolai Oswald, Pramod Bhatotia
@@ -76,8 +76,9 @@ bio: |
 
 | | |
 |---: | :---: | :---|
-| **[TOCS]** | &nbsp;&nbsp;&nbsp;&nbsp; | Invited extended journal version of *vCXLGen: Automated Synthesis and Verification of CXL Bridges for Heterogeneous Architectures*
-| | | **Anatole Lefort**, Julian Pritzi, Nicolò Carpentieri, David Schall, Simon Dittrich, Soham Chakraborty, Nicolai Oswald, Pramod Bhatotia
+| **[TOCS]** | &nbsp;&nbsp;&nbsp;&nbsp; | *CXL Bridges for Multi-Host Coherent Memory across Heterogeneous Architectures*
+| {{<fa award>}} Invited paper | | **Anatole Lefort**, Julian Pritzi, Nicolò Carpentieri, David Schall, Simon Dittrich, Soham Chakraborty, Nicolai Oswald, Pramod Bhatotia
+| | | Invited extended journal version of *vCXLGen* through recommendation by the PC chairs of ASPLOS ’26
 | | | ACM Transactions on Computer Systems (TOCS), forthcoming, 2026.
 
 <!--
